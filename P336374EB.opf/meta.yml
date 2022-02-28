@@ -1,0 +1,16 @@
+id: P336374EB
+initial_creation_type: input
+source_metadata:
+  title: Situ Paṇchen Series
+  language: en
+  description: 'Works by and about the influential scholar, grammarian and artist
+    Situ Paṇchen Chökyi Jungne (si tu paṇ chen chos kyi ''byung gnas, 1700–1774):'
+  volume:
+    b8769315b7304d70921c2fc2ab67793e:
+      title: Pointing Out Instruction
+      parent: Advice
+    414cdf1aa8294f35aea694bcdc5bfdf0:
+      title: Instructions on the Fivefold Mahāmudrā
+      parent: Mahāmudrā
+created_at: '2022-03-01T01:37:49.304719'
+last_modified_at: '2022-03-01T01:37:49.304725'
